@@ -1,0 +1,29 @@
+{
+  "version": 2.0,
+  "questions": [
+    {
+      "question": "Does material removal rate in case of ECM depends on hardness of workpiece?",
+      "answers": {
+        "a": "Yes",
+        "b": "No",
+        "c": "Some time depends",
+        "d": "None of these"
+      },
+      
+      "correctAnswer": "a",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "The commonly used electrolyte in ECM for steel is",
+      "answers": {
+        "a": "Hcl",
+        "b": "Nacl",
+        "c": "Na<sub>2</sub>co<sub>3</sub>",
+        "d": "h<sub>2</sub>So<sub>4</sub>"
+      },
+      
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    }
+  ]
+}
