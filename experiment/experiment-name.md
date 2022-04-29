@@ -1,1 +1,1 @@
-## Experiment name
+## Study of Electrochemical machining process
